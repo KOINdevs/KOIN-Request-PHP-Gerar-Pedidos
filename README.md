@@ -3,7 +3,7 @@
 # Descrição
 
 * Modelo de request em PHP para a API de geração de pedidos.
-* Basta informar nos parâmetros o nome e e-mail para testar.
+* Basta informar nos parâmetros o **nome e e-mail** para testar.
 * Já está incluso as credenciais de testes para sandbox e produção.
 
 # Requisitos  
