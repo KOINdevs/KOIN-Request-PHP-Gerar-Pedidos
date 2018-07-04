@@ -13,3 +13,5 @@
 # Como utilizar?
 
 * Basta fazer o download do arquivo **.PHP** e testar em seu localhost com [Xampp](https://www.apachefriends.org/pt_br/index.html) ou [Wamp](http://www.wampserver.com/en/) por exemplo.
+
+Caso tenha dúvidas sobre parâmetros obrigatórios ou não obrigatórios, por favor acesse nossa documentação aqui [KOIN](http://developers.koin.com.br/ptbr/index.html).
